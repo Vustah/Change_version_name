@@ -4,5 +4,9 @@ A small script to change the version number of a set of files in a folder struct
 ## How to use
 1. Go to the root of the folder structure where the the files have the wrong file-version names
 2. Open command window. 
-3. Type in the following command: 
-4.
+4. Type in the following command: 
+'''
+rename_file_version -X -Y
+'''
+  a. Where X is the old version number
+  b Where Y is the new version number
