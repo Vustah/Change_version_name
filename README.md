@@ -8,5 +8,4 @@ A small script to change the version number of a set of files in a folder struct
 ```
 rename_file_version -X -Y
 ```
-  a. Where X is the old version number <br>
-  b. Where Y is the new version number <br>
+5. Where X is the old version number <br> and Y is the new version number <br>
